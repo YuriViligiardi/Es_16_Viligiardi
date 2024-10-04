@@ -18,7 +18,7 @@
             for ($i=0; $i < $r; $i++) { 
                 echo "<tr style:'border: 1px solid black;'>";
                 for ($x=0; $x < $c; $x++) { 
-                    echo "<td style='border: 1px solid black; padding: 50px;'>($i,$x)</td>";
+                    echo "<td style='border: 1px solid black; padding: 10px;'>($i,$x)</td>";
                 }
                 echo "</tr>";
             }
